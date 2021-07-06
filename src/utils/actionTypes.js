@@ -1,0 +1,27 @@
+export const AUTH = 'AUTH';
+export const LOGOUT = 'LOGOUT';
+
+export const DELETE_USER = 'DELETE_USER'
+export const FETCH_USER = 'FETCH_USER'
+export const UPDATE_USER = 'UPDATE_USER'
+export const ADD_USER = 'ADD_USER'
+
+export const GET_ARTICLES = 'GET_ARTICLES';
+export const ADD_ARTICLE = 'ADD_ARTICLE';
+export const DELETE_ARTICLE = 'DELETE_ARTICLE';
+export const UPDATE_ARTICLE = 'UPDATE_ARTICLE';
+
+export const GET_CATEGORIES = 'GET_CATEGORIES';
+export const ADD_CATEGORIE = 'ADD_CATEGORIE';
+export const DELETE_CATEGORIE = 'DELETE_CATEGORIE';
+export const UPDATE_CATEGORIE = 'UPDATE_CATEGORIE';
+
+export const GET_COMMANDE_U = 'GET_COMMANDE_U';
+export const ADD_COMMANDE_U = 'ADD_COMMANDE_U';
+export const DELETE_COMMANDE_U = 'DELETE_COMMANDE_U';
+export const UPDATE_COMMANDE_U = 'UPDATE_COMMANDE_U';
+
+export const GET_COMMANDE_P = 'GET_COMMANDE_P';
+export const ADD_COMMANDE_P = 'ADD_COMMANDE_P';
+export const DELETE_COMMANDE_P = 'DELETE_COMMANDE_P';
+export const UPDATE_COMMANDE_P = 'UPDATE_COMMANDE_P';
